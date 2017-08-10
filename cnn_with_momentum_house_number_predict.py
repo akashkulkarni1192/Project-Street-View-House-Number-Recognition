@@ -11,7 +11,7 @@ from sklearn.utils import shuffle
 
 from datetime import datetime
 
-from base_cnn import get_data, y2indicator, error_rate
+from util import get_data, y2indicator, error_rate
 
 
 def relu(a):
