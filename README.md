@@ -1,8 +1,9 @@
-# Project-Street-View-House-Number-Recognition
+Project-Street-View-House-Number-Recognition
+==============================================
 Recognizing digits from natural scene images using CNN Model with momentum
 
-### Dataset ###
-------
+Dataset
+-------
 Street View House Number (SVNH) dataset has been used for this project. This contains 73257 samples of 32x32 images. I am using the format 2 of this dataset where each image is centered around a single character. Dataset has been downloaded from this link : http://ufldl.stanford.edu/housenumbers/
 
 ### Prediction ###
